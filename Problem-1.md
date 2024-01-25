@@ -1,4 +1,3 @@
-# January-25
 ## 217. Contains Duplicates
 
 ```java
