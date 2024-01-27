@@ -1,4 +1,4 @@
-### 659. Encode and Decode Strings
+## 659. Encode and Decode Strings
 
 ``` java
 public class Solution {
